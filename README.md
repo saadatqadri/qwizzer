@@ -3,6 +3,7 @@
 Components:
 
 * Framework: Python/Django
+* Database: MySQL
 * BDD using Lettuce
 * Front-end: AngularJS (potentially) or jQuery/Backbone
 * Integration Tests: Celery/Redis
