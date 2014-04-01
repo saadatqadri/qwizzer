@@ -1,5 +1,4 @@
-# Qwizzer is an in-class student response system, built on the Django web framework. 
-===============================================
+### Qwizzer is an in-class student response system, built on the Django web framework. 
 
 Components:
 
