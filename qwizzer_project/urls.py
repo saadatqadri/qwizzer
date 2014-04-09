@@ -3,8 +3,10 @@ from django.conf.urls import patterns, include, url
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
 # admin.autodiscover()
+from qwiz.views import home
 
 urlpatterns = patterns('',
+	url(r'^$', home),
     # Examples:
     # url(r'^$', 'qwizzer_project.views.home', name='home'),
     # url(r'^qwizzer_project/', include('qwizzer_project.foo.urls')),
